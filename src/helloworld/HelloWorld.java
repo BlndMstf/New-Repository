@@ -25,7 +25,7 @@ public class HelloWorld {
             System.out.print(arr[arr.length - 1 - i]);
         }
         System.out.println("");
-        System.out.println("Test Obama");
+        System.out.println("Test Obama lol");
     }
 
 }
